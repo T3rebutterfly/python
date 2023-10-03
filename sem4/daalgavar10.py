@@ -1,0 +1,6 @@
+x = int(input("Toogoo oruul: "))
+y = int(input("Toogoo oruul: "))
+z = int(input("Toogoo oruul: "))
+print(x % 2 == 0)
+print(y % 2 == 0)
+print(z % 2 == 0)
